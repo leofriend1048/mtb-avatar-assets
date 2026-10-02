@@ -12,7 +12,7 @@ https://cdn.jsdelivr.net/gh/leofriend1048/mtb-avatar-assets@main/<file>
 
 | File | Avatar |
 | --- | --- |
-| `creator-woman-50s-scene-v2-2k.jpg` | `creator-woman-50s` - Creator Woman 50s (at-home UGC) |
+| `creator-woman-50s-scene-v3-2k.jpg` | `creator-woman-50s` - Creator Woman 50s (at-home UGC) |
 
 Filenames are versioned. jsDelivr caches a branch ref for up to 12h, so a changed
 image ships under a NEW filename rather than overwriting an old one.
